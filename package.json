@@ -1,0 +1,17 @@
+{
+  "name": "a-liang-blog",
+  "version": "1.0.0",
+  "description": "ALiang Profile With Blog",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "1.0.0-beta.6",
+    "vue": "^3.3.4"
+  }
+}
