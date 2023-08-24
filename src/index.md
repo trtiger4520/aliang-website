@@ -1,22 +1,18 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: '首頁'
 
 hero:
-  name: "ALiang Blog"
-  text: "ALiang Profile With Blog"
-  tagline: My great project tagline
+  name: "ALiang"
+  text: "阿諒的個人天地"
+  tagline: 邁向全端的天真工程師
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 文章列表
+      link: /blog/index
+    - theme: alt
+      text: 個人資訊
+      link: /profile
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
